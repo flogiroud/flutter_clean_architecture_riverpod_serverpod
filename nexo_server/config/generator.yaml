@@ -1,0 +1,7 @@
+type: server
+
+client_package_path: ../nexo_client
+
+modules:
+  serverpod_auth:
+    nickname: auth

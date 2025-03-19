@@ -1,0 +1,17 @@
+{
+  "email": "Email",
+  "enterGame": "Enter Game",
+  "forgotPassword": "Forgot password",
+  "game": "Game",
+  "logIn": "Log In",
+  "newPassword": "New password",
+  "password": "Password",
+  "pseudo": "Pseudo",
+  "sendCode": "Send code",
+  "settings": "Settings",
+  "signOut": "Sign Out",
+  "signUp": "Sign Up",
+  "updatePseudo": "Update Pseudo",
+  "validate": "Validate",
+  "validationCode": "Validation code"
+}

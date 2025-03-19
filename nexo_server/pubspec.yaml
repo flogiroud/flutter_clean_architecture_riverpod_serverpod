@@ -1,0 +1,18 @@
+name: nexo_server
+description: Starting point for a Serverpod server.
+# version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  serverpod: ^1.0.1
+  serverpod_auth_server: ^1.0.1
+  mailer: ^6.0.0
+  json_annotation: ^4.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  json_serializable: ^6.6.1
+  build_runner: ^2.3.3

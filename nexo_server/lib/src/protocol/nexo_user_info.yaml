@@ -1,0 +1,3 @@
+class: NexoUserInfo
+fields:
+  userInfo: module:auth:UserInfo
