@@ -1,4 +1,4 @@
-# nexo_server
+## Server
 
 This is the starting point for your Serverpod server.
 
@@ -13,3 +13,6 @@ Then you can start the Serverpod server.
 When you are finished, you can shut down Serverpod with `Ctrl-C`, then stop Postgres and Redis.
 
     docker compose stop
+
+
+For detailed information about the **server implementation**, refer to the official **[Serverpod documentation](https://docs.serverpod.dev/)**.
